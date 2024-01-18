@@ -1,0 +1,63 @@
+body
+{
+    background-image: url("background.jpg");
+    text-align: center;
+}
+#marioimg_d
+{
+    width: 100%;
+}
+
+#Sh1
+{
+    background-color: blue;
+    padding: 10px;
+    margin-top: -5px;
+}
+
+#Sb1
+{
+    float: right;
+}
+
+#blue
+{
+    background-color: blue;
+}
+
+#webcam
+{
+    background-image: url("game_console.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
+.img-responsive{
+    width: 45%;
+    display: inline;
+}
+
+#footer_note{
+
+    position: fixed;
+    bottom: 0;
+background-color: azure;
+width: 100%;  
+    height: 18px;  
+}
+
+video{
+    scale: -1 1;
+    margin-bottom: 30px;
+}
+
+#pS {
+    font-weight: bold;
+    color: aliceblue;
+}
